@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python -c \"import ast; ast.parse\\(open\\('backend.py'\\).read\\(\\)\\); print\\('backend.py syntax OK'\\)\")"
+      "Bash(python -c \"import ast; ast.parse\\(open\\('backend.py'\\).read\\(\\)\\); print\\('backend.py syntax OK'\\)\")",
+      "Bash(py -3.11 -c \"import rocketride; print\\('OK'\\)\")",
+      "Bash(python -m pip install rocketride fastapi uvicorn requests)",
+      "Bash(py -3.11 check.py)",
+      "Bash(git log *)",
+      "Bash(git show *)"
     ]
   }
 }

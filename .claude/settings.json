@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/risha/AppData/Roaming/Code/User/**)",
+      "Bash(tasklist)",
+      "Bash(netstat -ano)",
+      "Bash(python check.py)",
+      "Bash(where python *)",
+      "Bash(C:\\\\Users\\\\risha\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python311\\\\python.exe -c \"import rocketride; print\\('rocketride OK'\\)\")",
+      "Bash(py -3.11 -c ' *)",
+      "Read(//c/Users/risha/AppData/Local/Programs/Python/Python311/Lib/site-packages/rocketride/**)",
+      "Bash(pip show *)",
+      "Bash(python -c \"import sys; print\\(sys.executable\\)\")",
+      "Bash(python -c \"import fastapi, uvicorn, rocketride; print\\('All imports OK'\\)\")",
+      "Bash(pip install *)",
+      "Bash(python -m pip install fastapi uvicorn requests rocketride pydantic)",
+      "Bash(python -c \"import fastapi, uvicorn, rocketride, requests, pydantic; print\\('All imports OK'\\)\")",
+      "Bash(python -c \"import sys; print\\(sys.prefix\\); print\\(sys.executable\\)\")",
+      "Bash(findstr :5565)",
+      "Bash(findstr \"556\")",
+      "Bash(findstr \"LISTENING\")",
+      "Bash(findstr \"55\")",
+      "Bash(rocketride start *)",
+      "Bash(PYTHONIOENCODING=utf-8 python -m rocketride start wc_analysis.pipe)",
+      "Bash(ls /c/Users/risha/AppData/Roaming/ | grep -i rocket)",
+      "Read(//c/Users/risha/AppData/Roaming//**)",
+      "Bash(find /c/Users/risha/AppData -name \"*rocketride*\" -o -name \"*rocket-ride*\" 2>/dev/null | head -20)",
+      "Read(//c/Users/risha/AppData/**)"
+    ]
+  }
+}
