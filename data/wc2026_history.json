@@ -1,0 +1,128 @@
+{
+  "Brazil": {
+    "titles": 5,
+    "years": [
+      1958,
+      1962,
+      1970,
+      1994,
+      2002
+    ],
+    "runner_up": 2,
+    "best_finish": "Winner"
+  },
+  "Germany": {
+    "titles": 4,
+    "years": [
+      1954,
+      1974,
+      1990,
+      2014
+    ],
+    "runner_up": 4,
+    "best_finish": "Winner"
+  },
+  "Italy": {
+    "titles": 4,
+    "years": [
+      1934,
+      1938,
+      1982,
+      2006
+    ],
+    "runner_up": 2,
+    "best_finish": "Winner"
+  },
+  "Argentina": {
+    "titles": 3,
+    "years": [
+      1978,
+      1986,
+      2022
+    ],
+    "runner_up": 3,
+    "best_finish": "Winner"
+  },
+  "France": {
+    "titles": 2,
+    "years": [
+      1998,
+      2018
+    ],
+    "runner_up": 2,
+    "best_finish": "Winner"
+  },
+  "Uruguay": {
+    "titles": 2,
+    "years": [
+      1930,
+      1950
+    ],
+    "runner_up": 0,
+    "best_finish": "Winner"
+  },
+  "Spain": {
+    "titles": 1,
+    "years": [
+      2010
+    ],
+    "runner_up": 0,
+    "best_finish": "Winner"
+  },
+  "England": {
+    "titles": 1,
+    "years": [
+      1966
+    ],
+    "runner_up": 0,
+    "best_finish": "Winner"
+  },
+  "Netherlands": {
+    "titles": 0,
+    "years": [],
+    "runner_up": 3,
+    "best_finish": "Runner-up"
+  },
+  "Croatia": {
+    "titles": 0,
+    "years": [],
+    "runner_up": 1,
+    "best_finish": "Runner-up"
+  },
+  "Czechoslovakia": {
+    "titles": 0,
+    "years": [],
+    "runner_up": 2,
+    "best_finish": "Runner-up"
+  },
+  "Portugal": {
+    "titles": 0,
+    "years": [],
+    "runner_up": 0,
+    "best_finish": "3rd Place"
+  },
+  "Belgium": {
+    "titles": 0,
+    "years": [],
+    "runner_up": 0,
+    "best_finish": "3rd Place"
+  },
+  "USA": {
+    "titles": 0,
+    "years": [],
+    "runner_up": 0,
+    "best_finish": "3rd Place"
+  },
+  "Chile": {
+    "titles": 0,
+    "years": [],
+    "runner_up": 0,
+    "best_finish": "3rd Place"
+  },
+  "South Korea": {
+    "titles": 0,
+    "years": [],
+    "runner_up": 0,
+    "best_finish": "4th Place"
+  }
+}

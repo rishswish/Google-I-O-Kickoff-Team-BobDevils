@@ -1,0 +1,1915 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "league": "1",
+    "season": "2022"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 278,
+        "name": "Kylian Mbapp\u00e9",
+        "firstname": "Kylian",
+        "lastname": "Mbapp\u00e9 Lottin",
+        "age": 27,
+        "birth": {
+          "date": "1998-12-20",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "178",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/278.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2,
+            "name": "France",
+            "logo": "https://media.api-sports.io/football/teams/2.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 6,
+            "minutes": 597,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 21,
+            "on": 14
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 200,
+            "key": 11,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 77,
+            "won": 33
+          },
+          "dribbles": {
+            "attempts": 48,
+            "success": 25,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 154,
+        "name": "L. Messi",
+        "firstname": "Lionel Andr\u00e9s",
+        "lastname": "Messi Cuccittini",
+        "age": 38,
+        "birth": {
+          "date": "1987-06-24",
+          "place": "Rosario",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "170",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/154.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 26,
+            "name": "Argentina",
+            "logo": "https://media.api-sports.io/football/teams/26.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 690,
+            "number": null,
+            "position": "Attacker",
+            "rating": "8.314285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 29,
+            "on": 18
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 347,
+            "key": 21,
+            "accuracy": 42
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 98,
+            "won": 44
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 4,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 6009,
+        "name": "J. \u00c1lvarez",
+        "firstname": "Juli\u00e1n",
+        "lastname": "\u00c1lvarez",
+        "age": 25,
+        "birth": {
+          "date": "2000-01-31",
+          "place": "Cach\u00edn",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "170",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/6009.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 26,
+            "name": "Argentina",
+            "logo": "https://media.api-sports.io/football/teams/26.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 5,
+            "minutes": 467,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.028571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 5,
+            "bench": 2
+          },
+          "shots": {
+            "total": 9,
+            "on": 8
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 116,
+            "key": 3,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 40,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2295,
+        "name": "O. Giroud",
+        "firstname": "Olivier Jonathan",
+        "lastname": "Giroud",
+        "age": 39,
+        "birth": {
+          "date": "1986-09-30",
+          "place": "Chamb\u00e9ry",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "193",
+        "weight": "91",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2295.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2,
+            "name": "France",
+            "logo": "https://media.api-sports.io/football/teams/2.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 423,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.250000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 1
+          },
+          "shots": {
+            "total": 15,
+            "on": 6
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 73,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 43,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41585,
+        "name": "Gon\u00e7alo Ramos",
+        "firstname": "Gon\u00e7alo",
+        "lastname": "Matias Ramos",
+        "age": 24,
+        "birth": {
+          "date": "2001-06-20",
+          "place": "Lisboa",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "185",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41585.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 27,
+            "name": "Portugal",
+            "logo": "https://media.api-sports.io/football/teams/27.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 153,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 3
+          },
+          "shots": {
+            "total": 7,
+            "on": 5
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 31,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 19,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 909,
+        "name": "M. Rashford",
+        "firstname": "Marcus",
+        "lastname": "Rashford",
+        "age": 28,
+        "birth": {
+          "date": "1997-10-31",
+          "place": "Manchester",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "188",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/909.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 10,
+            "name": "England",
+            "logo": "https://media.api-sports.io/football/teams/10.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 1,
+            "minutes": 137,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.180000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": 9,
+            "on": 6
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 64,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 17,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 247,
+        "name": "C. Gakpo",
+        "firstname": "Cody Math\u00e8s",
+        "lastname": "Gakpo",
+        "age": 26,
+        "birth": {
+          "date": "1999-05-07",
+          "place": "Eindhoven",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "193",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/247.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1118,
+            "name": "Netherlands",
+            "logo": "https://media.api-sports.io/football/teams/1118.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 456,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.480000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 3
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 110,
+            "key": 10,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 50,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1460,
+        "name": "B. Saka",
+        "firstname": "Bukayo Ayoyinka Temidayo",
+        "lastname": "Saka",
+        "age": 24,
+        "birth": {
+          "date": "2001-09-05",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "178",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1460.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 10,
+            "name": "England",
+            "logo": "https://media.api-sports.io/football/teams/10.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 293,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 1
+          },
+          "shots": {
+            "total": 7,
+            "on": 5
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 101,
+            "key": 5,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 34,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2413,
+        "name": "Richarlison",
+        "firstname": "Richarlison",
+        "lastname": "de Andrade",
+        "age": 28,
+        "birth": {
+          "date": "1997-05-10",
+          "place": "Nova Ven\u00e9cia",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "184",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2413.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 6,
+            "name": "Brazil",
+            "logo": "https://media.api-sports.io/football/teams/6.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 326,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.375000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 1
+          },
+          "shots": {
+            "total": 5,
+            "on": 4
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 56,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 32,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25391,
+        "name": "N. F\u00fcllkrug",
+        "firstname": "Niclas",
+        "lastname": "F\u00fcllkrug",
+        "age": 32,
+        "birth": {
+          "date": "1993-02-09",
+          "place": "Hannover",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "189",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25391.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 25,
+            "name": "Germany",
+            "logo": "https://media.api-sports.io/football/teams/25.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 66,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 7,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 24,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 726,
+        "name": "A. Kramari\u0107",
+        "firstname": "Andrej",
+        "lastname": "Kramari\u0107",
+        "age": 34,
+        "birth": {
+          "date": "1991-06-19",
+          "place": "Zagreb",
+          "country": "Croatia"
+        },
+        "nationality": "Croatia",
+        "height": "177",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/726.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3,
+            "name": "Croatia",
+            "logo": "https://media.api-sports.io/football/teams/3.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 481,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.842857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 167,
+            "key": 4,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 26,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22236,
+        "name": "Rafael Le\u00e3o",
+        "firstname": "Rafael Alexandre",
+        "lastname": "da Concei\u00e7\u00e3o Le\u00e3o",
+        "age": 26,
+        "birth": {
+          "date": "1999-06-10",
+          "place": "Almada",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "188",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22236.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 27,
+            "name": "Portugal",
+            "logo": "https://media.api-sports.io/football/teams/27.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 0,
+            "minutes": 83,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.000000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 41,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 14,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2598,
+        "name": "R. D\u014dan",
+        "firstname": "Ritsu",
+        "lastname": "D\u014dan",
+        "age": 27,
+        "birth": {
+          "date": "1998-06-16",
+          "place": "Amagasaki",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "172",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2598.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 12,
+            "name": "Japan",
+            "logo": "https://media.api-sports.io/football/teams/12.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 217,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.100000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 4,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 46,
+            "key": 4,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 29,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 34211,
+        "name": "Cho Gue-Sung",
+        "firstname": "Gue-Sung",
+        "lastname": "Cho",
+        "age": 27,
+        "birth": {
+          "date": "1998-01-25",
+          "place": "Ansan",
+          "country": "Korea Republic"
+        },
+        "nationality": "Korea Republic",
+        "height": "189",
+        "weight": "82",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/34211.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 17,
+            "name": "South Korea",
+            "logo": "https://media.api-sports.io/football/teams/17.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 276,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.925000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 6,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 63,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 55,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 421,
+        "name": "B. Embolo",
+        "firstname": "Breel Donald",
+        "lastname": "Embolo",
+        "age": 28,
+        "birth": {
+          "date": "1997-02-14",
+          "place": "Yaound\u00e9",
+          "country": "Cameroon"
+        },
+        "nationality": "Switzerland",
+        "height": "187",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/421.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 15,
+            "name": "Switzerland",
+            "logo": "https://media.api-sports.io/football/teams/15.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 327,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.575000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 61,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 42,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15911,
+        "name": "M. Kudus",
+        "firstname": "Mohammed",
+        "lastname": "Kudus",
+        "age": 25,
+        "birth": {
+          "date": "2000-08-02",
+          "place": "Accra",
+          "country": "Ghana"
+        },
+        "nationality": "Ghana",
+        "height": "177",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15911.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1504,
+            "name": "Ghana",
+            "logo": "https://media.api-sports.io/football/teams/1504.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 250,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.566666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 79,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 38,
+            "won": 20
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2825,
+        "name": "A. Mitrovi\u0107",
+        "firstname": "Aleksandar",
+        "lastname": "Mitrovi\u0107",
+        "age": 31,
+        "birth": {
+          "date": "1994-09-16",
+          "place": "Smederevo",
+          "country": "Serbia"
+        },
+        "nationality": "Serbia",
+        "height": "189",
+        "weight": "89",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2825.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 14,
+            "name": "Serbia",
+            "logo": "https://media.api-sports.io/football/teams/14.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 263,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.833333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 8,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 67,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 26,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 44340,
+        "name": "Salem Al Dawsari",
+        "firstname": "Salem Mohammed Shafi",
+        "lastname": "Al Dawsari",
+        "age": 34,
+        "birth": {
+          "date": "1991-08-19",
+          "place": "Jeddah",
+          "country": "Saudi Arabia"
+        },
+        "nationality": "Saudi Arabia",
+        "height": "172",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/44340.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 23,
+            "name": "Saudi Arabia",
+            "logo": "https://media.api-sports.io/football/teams/23.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 270,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 7,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 106,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 28,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 978,
+        "name": "K. Havertz",
+        "firstname": "Kai Lukas",
+        "lastname": "Havertz",
+        "age": 26,
+        "birth": {
+          "date": "1999-06-11",
+          "place": "Aachen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "193",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/978.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 25,
+            "name": "Germany",
+            "logo": "https://media.api-sports.io/football/teams/25.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 103,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 5,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 32,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 7,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2612,
+        "name": "G. de Arrascaeta",
+        "firstname": "Giorgian Daniel",
+        "lastname": "de Arrascaeta Benedetti",
+        "age": 31,
+        "birth": {
+          "date": "1994-06-01",
+          "place": "Nuevo Berl\u00edn",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "173",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2612.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7,
+            "name": "Uruguay",
+            "logo": "https://media.api-sports.io/football/teams/7.png"
+          },
+          "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 108,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.200000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 3,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 45,
+            "key": 3,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 16,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

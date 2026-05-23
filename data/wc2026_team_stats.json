@@ -1,0 +1,642 @@
+{
+  "Brazil": {
+    "wins": 22,
+    "draws": 5,
+    "losses": 3,
+    "gf": 68,
+    "ga": 21,
+    "wc_titles": 5,
+    "wc_finals": 7,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "rating": 92,
+    "attack": 91,
+    "defense": 89,
+    "midfield": 88
+  },
+  "France": {
+    "wins": 20,
+    "draws": 6,
+    "losses": 4,
+    "gf": 58,
+    "ga": 24,
+    "wc_titles": 2,
+    "wc_finals": 4,
+    "form": [
+      "W",
+      "W",
+      "W",
+      "D",
+      "W"
+    ],
+    "rating": 91,
+    "attack": 93,
+    "defense": 88,
+    "midfield": 90
+  },
+  "Argentina": {
+    "wins": 21,
+    "draws": 4,
+    "losses": 5,
+    "gf": 62,
+    "ga": 28,
+    "wc_titles": 3,
+    "wc_finals": 6,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "W"
+    ],
+    "rating": 90,
+    "attack": 92,
+    "defense": 85,
+    "midfield": 89
+  },
+  "Germany": {
+    "wins": 19,
+    "draws": 5,
+    "losses": 6,
+    "gf": 55,
+    "ga": 30,
+    "wc_titles": 4,
+    "wc_finals": 8,
+    "form": [
+      "W",
+      "L",
+      "W",
+      "W",
+      "D"
+    ],
+    "rating": 88,
+    "attack": 87,
+    "defense": 86,
+    "midfield": 88
+  },
+  "Spain": {
+    "wins": 20,
+    "draws": 7,
+    "losses": 3,
+    "gf": 57,
+    "ga": 22,
+    "wc_titles": 1,
+    "wc_finals": 1,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "rating": 89,
+    "attack": 88,
+    "defense": 90,
+    "midfield": 91
+  },
+  "England": {
+    "wins": 18,
+    "draws": 6,
+    "losses": 6,
+    "gf": 52,
+    "ga": 29,
+    "wc_titles": 1,
+    "wc_finals": 2,
+    "form": [
+      "D",
+      "W",
+      "W",
+      "L",
+      "W"
+    ],
+    "rating": 87,
+    "attack": 86,
+    "defense": 85,
+    "midfield": 86
+  },
+  "Portugal": {
+    "wins": 19,
+    "draws": 5,
+    "losses": 6,
+    "gf": 60,
+    "ga": 31,
+    "wc_titles": 0,
+    "wc_finals": 1,
+    "form": [
+      "W",
+      "W",
+      "W",
+      "D",
+      "L"
+    ],
+    "rating": 87,
+    "attack": 90,
+    "defense": 83,
+    "midfield": 85
+  },
+  "Netherlands": {
+    "wins": 17,
+    "draws": 7,
+    "losses": 6,
+    "gf": 50,
+    "ga": 27,
+    "wc_titles": 0,
+    "wc_finals": 3,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "D"
+    ],
+    "rating": 86,
+    "attack": 85,
+    "defense": 85,
+    "midfield": 84
+  },
+  "Italy": {
+    "wins": 16,
+    "draws": 8,
+    "losses": 6,
+    "gf": 48,
+    "ga": 26,
+    "wc_titles": 4,
+    "wc_finals": 6,
+    "form": [
+      "D",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "rating": 85,
+    "attack": 82,
+    "defense": 88,
+    "midfield": 85
+  },
+  "Belgium": {
+    "wins": 17,
+    "draws": 5,
+    "losses": 8,
+    "gf": 53,
+    "ga": 34,
+    "wc_titles": 0,
+    "wc_finals": 1,
+    "form": [
+      "W",
+      "L",
+      "W",
+      "D",
+      "W"
+    ],
+    "rating": 84,
+    "attack": 86,
+    "defense": 81,
+    "midfield": 83
+  },
+  "Croatia": {
+    "wins": 15,
+    "draws": 8,
+    "losses": 7,
+    "gf": 45,
+    "ga": 28,
+    "wc_titles": 0,
+    "wc_finals": 2,
+    "form": [
+      "D",
+      "W",
+      "D",
+      "W",
+      "D"
+    ],
+    "rating": 83,
+    "attack": 80,
+    "defense": 82,
+    "midfield": 86
+  },
+  "Uruguay": {
+    "wins": 16,
+    "draws": 6,
+    "losses": 8,
+    "gf": 49,
+    "ga": 33,
+    "wc_titles": 2,
+    "wc_finals": 3,
+    "form": [
+      "W",
+      "W",
+      "L",
+      "W",
+      "D"
+    ],
+    "rating": 82,
+    "attack": 81,
+    "defense": 80,
+    "midfield": 81
+  },
+  "Morocco": {
+    "wins": 13,
+    "draws": 7,
+    "losses": 10,
+    "gf": 38,
+    "ga": 32,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "D",
+      "W",
+      "W",
+      "D",
+      "L"
+    ],
+    "rating": 78,
+    "attack": 74,
+    "defense": 82,
+    "midfield": 77
+  },
+  "Mexico": {
+    "wins": 14,
+    "draws": 7,
+    "losses": 9,
+    "gf": 44,
+    "ga": 35,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "L",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "rating": 77,
+    "attack": 76,
+    "defense": 75,
+    "midfield": 76
+  },
+  "USA": {
+    "wins": 13,
+    "draws": 8,
+    "losses": 9,
+    "gf": 42,
+    "ga": 36,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "rating": 76,
+    "attack": 75,
+    "defense": 75,
+    "midfield": 74
+  },
+  "Japan": {
+    "wins": 14,
+    "draws": 6,
+    "losses": 10,
+    "gf": 43,
+    "ga": 37,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "rating": 76,
+    "attack": 77,
+    "defense": 73,
+    "midfield": 75
+  },
+  "Colombia": {
+    "wins": 13,
+    "draws": 6,
+    "losses": 11,
+    "gf": 40,
+    "ga": 36,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "W"
+    ],
+    "rating": 75,
+    "attack": 76,
+    "defense": 72,
+    "midfield": 74
+  },
+  "Denmark": {
+    "wins": 13,
+    "draws": 7,
+    "losses": 10,
+    "gf": 39,
+    "ga": 31,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "D",
+      "W",
+      "W",
+      "D",
+      "W"
+    ],
+    "rating": 75,
+    "attack": 73,
+    "defense": 77,
+    "midfield": 74
+  },
+  "Switzerland": {
+    "wins": 14,
+    "draws": 8,
+    "losses": 8,
+    "gf": 41,
+    "ga": 30,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "D"
+    ],
+    "rating": 75,
+    "attack": 72,
+    "defense": 78,
+    "midfield": 74
+  },
+  "Senegal": {
+    "wins": 12,
+    "draws": 7,
+    "losses": 11,
+    "gf": 36,
+    "ga": 34,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "W"
+    ],
+    "rating": 74,
+    "attack": 73,
+    "defense": 72,
+    "midfield": 72
+  },
+  "South Korea": {
+    "wins": 12,
+    "draws": 6,
+    "losses": 12,
+    "gf": 38,
+    "ga": 40,
+    "wc_titles": 0,
+    "wc_finals": 1,
+    "form": [
+      "L",
+      "W",
+      "D",
+      "W",
+      "L"
+    ],
+    "rating": 72,
+    "attack": 74,
+    "defense": 69,
+    "midfield": 71
+  },
+  "Australia": {
+    "wins": 11,
+    "draws": 7,
+    "losses": 12,
+    "gf": 35,
+    "ga": 39,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "W",
+      "L",
+      "D",
+      "D",
+      "W"
+    ],
+    "rating": 70,
+    "attack": 68,
+    "defense": 70,
+    "midfield": 69
+  },
+  "Canada": {
+    "wins": 11,
+    "draws": 6,
+    "losses": 13,
+    "gf": 34,
+    "ga": 41,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "D",
+      "W",
+      "L",
+      "W",
+      "D"
+    ],
+    "rating": 69,
+    "attack": 67,
+    "defense": 68,
+    "midfield": 68
+  },
+  "Ecuador": {
+    "wins": 10,
+    "draws": 7,
+    "losses": 13,
+    "gf": 33,
+    "ga": 42,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "rating": 68,
+    "attack": 66,
+    "defense": 67,
+    "midfield": 67
+  },
+  "Poland": {
+    "wins": 12,
+    "draws": 5,
+    "losses": 13,
+    "gf": 37,
+    "ga": 40,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "L",
+      "W",
+      "D",
+      "W",
+      "L"
+    ],
+    "rating": 68,
+    "attack": 69,
+    "defense": 65,
+    "midfield": 66
+  },
+  "Serbia": {
+    "wins": 11,
+    "draws": 6,
+    "losses": 13,
+    "gf": 36,
+    "ga": 41,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "D"
+    ],
+    "rating": 67,
+    "attack": 68,
+    "defense": 64,
+    "midfield": 66
+  },
+  "Iran": {
+    "wins": 9,
+    "draws": 7,
+    "losses": 14,
+    "gf": 29,
+    "ga": 43,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "D",
+      "L",
+      "W",
+      "D",
+      "L"
+    ],
+    "rating": 65,
+    "attack": 62,
+    "defense": 66,
+    "midfield": 63
+  },
+  "Nigeria": {
+    "wins": 10,
+    "draws": 6,
+    "losses": 14,
+    "gf": 31,
+    "ga": 42,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "W",
+      "D",
+      "L",
+      "D",
+      "W"
+    ],
+    "rating": 65,
+    "attack": 64,
+    "defense": 63,
+    "midfield": 63
+  },
+  "Chile": {
+    "wins": 10,
+    "draws": 6,
+    "losses": 14,
+    "gf": 32,
+    "ga": 43,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "L",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "rating": 64,
+    "attack": 63,
+    "defense": 63,
+    "midfield": 63
+  },
+  "Saudi Arabia": {
+    "wins": 10,
+    "draws": 6,
+    "losses": 14,
+    "gf": 31,
+    "ga": 44,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "W",
+      "L",
+      "L",
+      "D",
+      "W"
+    ],
+    "rating": 63,
+    "attack": 61,
+    "defense": 63,
+    "midfield": 62
+  },
+  "Cameroon": {
+    "wins": 9,
+    "draws": 6,
+    "losses": 15,
+    "gf": 28,
+    "ga": 44,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "rating": 62,
+    "attack": 61,
+    "defense": 61,
+    "midfield": 61
+  },
+  "Costa Rica": {
+    "wins": 8,
+    "draws": 6,
+    "losses": 16,
+    "gf": 26,
+    "ga": 46,
+    "wc_titles": 0,
+    "wc_finals": 0,
+    "form": [
+      "L",
+      "D",
+      "L",
+      "W",
+      "D"
+    ],
+    "rating": 60,
+    "attack": 58,
+    "defense": 61,
+    "midfield": 59
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "Brazil_vs_Argentina": {
+    "played": 107,
+    "brazil_wins": 37,
+    "draws": 25,
+    "argentina_wins": 45,
+    "last5": [
+      {
+        "year": 2023,
+        "winner": "Argentina"
+      },
+      {
+        "year": 2022,
+        "winner": "Argentina"
+      },
+      {
+        "year": 2021,
+        "winner": "Argentina"
+      },
+      {
+        "year": 2019,
+        "winner": "Brazil"
+      },
+      {
+        "year": 2018,
+        "winner": "Draw"
+      }
+    ]
+  },
+  "France_vs_England": {
+    "played": 32,
+    "france_wins": 17,
+    "draws": 7,
+    "england_wins": 8,
+    "last5": [
+      {
+        "year": 2024,
+        "winner": "England"
+      },
+      {
+        "year": 2022,
+        "winner": "France"
+      },
+      {
+        "year": 2017,
+        "winner": "France"
+      },
+      {
+        "year": 2015,
+        "winner": "England"
+      },
+      {
+        "year": 2012,
+        "winner": "France"
+      }
+    ]
+  },
+  "Spain_vs_Germany": {
+    "played": 24,
+    "spain_wins": 6,
+    "draws": 8,
+    "germany_wins": 10,
+    "last5": [
+      {
+        "year": 2024,
+        "winner": "Spain"
+      },
+      {
+        "year": 2023,
+        "winner": "Spain"
+      },
+      {
+        "year": 2022,
+        "winner": "Draw"
+      },
+      {
+        "year": 2020,
+        "winner": "Germany"
+      },
+      {
+        "year": 2018,
+        "winner": "Spain"
+      }
+    ]
+  },
+  "Brazil_vs_France": {
+    "played": 12,
+    "brazil_wins": 4,
+    "draws": 3,
+    "france_wins": 5,
+    "last5": [
+      {
+        "year": 2022,
+        "winner": "France"
+      },
+      {
+        "year": 2019,
+        "winner": "Brazil"
+      },
+      {
+        "year": 2013,
+        "winner": "Brazil"
+      },
+      {
+        "year": 2011,
+        "winner": "France"
+      },
+      {
+        "year": 2009,
+        "winner": "France"
+      }
+    ]
+  },
+  "Argentina_vs_France": {
+    "played": 16,
+    "argentina_wins": 6,
+    "draws": 3,
+    "france_wins": 7,
+    "last5": [
+      {
+        "year": 2022,
+        "winner": "Argentina"
+      },
+      {
+        "year": 2018,
+        "winner": "France"
+      },
+      {
+        "year": 2011,
+        "winner": "Argentina"
+      },
+      {
+        "year": 2009,
+        "winner": "France"
+      },
+      {
+        "year": 2007,
+        "winner": "France"
+      }
+    ]
+  }
+}
